@@ -51,4 +51,4 @@ The customer transaction dataset held by the merchant has 8 variables as shown b
 Iyengar, S. S., & Lepper, M. R. (2000). When choice is demotivating: Can one desire too much of a good thing?. Journal of personality and social psychology, 79(6), 995.
 
 Hu, Y., Koren, Y., & Volinsky, C. (2008). Collaborative filtering for implicit feedback datasets. 2008 Eighth IEEE International Conference on Data Mining, 263–272.
-# Business_Case_4
+
