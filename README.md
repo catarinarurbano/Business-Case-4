@@ -1,17 +1,13 @@
-# BC4: ManyGiftsUK recommender system
+# ManyGiftsUK Recommender System
 
-**Problem type:** Recommender System
-
-**Submission date:** 03-05-2021 | 11:59 pm
-
-## General Context 
+## Project Overview
 
 Recommender systems have become a very important part of the retail industries by providing decision-making support to its customers. Several studies such as Iyengar and Lepper (2000) have proved that when faced with easy choices, customers tend to buy more. Given the number of possible choices available, especially for online shopping, having some extra guidance on these choices can really make a difference and lead to an increase in sales. As an example, 35% of Amazon sales come from recommendations. Moreover, recommender systems are a useful alternative to search algorithms since they help users discover items they might not have found otherwise.
 
 Recommender systems usually make use of either or both collaborative filtering and content-based filtering. Collaborative filtering approaches build a model from a user's past behavior (items previously purchased or selected and/or numerical ratings given to those items) as well as similar decisions made by other users. It relies solely on user/ item interaction data. In the opposite side, content-based filtering relies on item attribute data and it uses this kind of data to recommend items with similar properties to the ones a user has liked in the past. Modern recommender systems typically combine one or more approaches into a hybrid system.
 
 There are two kinds of user/ item interaction data available: explicit and implicit.
-- Explicit: A score, such as a rating or a like
+- Explicit: A score, such as a rating or alike
 - Implicit: Not as obvious in terms of preference, such as a click, view, or purchase
 
 The most common example of explicit data discussed is movie ratings, which are given on a numeric scale. We can easily see whether a user enjoyed a movie based on the rating provided. The problem, however, is that most of the time, people don’t provide ratings at all, so the amount of explicit data available is quite scarce. Sometimes we get access to data about certain interactions between users and items that give us some degree of certainty on whether a user likes an item - this is what we call implicit data. With implicit data, the more interactions a user has with a item, the more certain we are about its preference. A common example might be viewing a product in Amazon website or even purchasing it.
